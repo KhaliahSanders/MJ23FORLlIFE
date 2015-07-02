@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.font-roboto {
+     font-family: 'Orbitron', sans-serif;
+}
+
+.font-opensans {
+   font-family: 'Play', sans-serif; 
+}
+
+body{
+      background-color: darkred;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+margin: 0 auto
+        width: 960px
+body {
+    background-color: white;
+}
+
+header {
+    background-attachment:fixed;    
+    background-image: url("http://ballislife.com/wp-content/uploads/2014/02/Check-Out-Complexs-50-Things-You-Didnt-Know-About-Michael-Jordan-01-featured-image.jpg");
+    background-position: 0 -100px;
+    background-size: cover;
+   background-repeat: no-repeat; 
+    color: #fff;
+    height: 300px;
+    padding: 60px 50px;
+    
+    /*
+    padding: 60px;
+    
+    padding: 60px 50px 60px 50px;
+    
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    */
+}
+.page-nav h1{ 
+    float: left;
+}
+   .page-nav h1 {
+    float: left;
+}
+
+.page-nav ul {
+    float: right;
+}
+
+.page-nav ul li {
+    display: inline-block;
+}
+
+.page-nav ul li a {
+    color: white;
+}  
+sign-up-area {
+    margin-top: 150px;
+ text-align: center;   
+}
+
+.sign-up-area h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.sign-up-area .emphasis {
+    font-style: italic;
+    font-weight: bold;
+}
+.sign-up-area .sign up{
+ font-style: italic;
+    margin-top: 50px
+}
+
+.sign-up-area .sign-up-form{
+background-color: #fff;    
+    border: 1px solid #770009;
+    margin: 10px auto 0;
+    width: 220px;
+        
+}
+
+.sign-up-area .sign-up-form input {
+    border: none;
+    box-sizing: border-box
+      padding: 10px
+}
+
+  sign-up-area .sign-up-form input[type="text"] {
+    
+}
+
+.sign-up-area .sign-up-form input[type="submit"] {
+    background-color: #770009;
+    color: #fff;
+    text-transform: uppercase;
+}      
+
+.quotes {
+    background-color: #fff;
+    padding-top: 40px;
+}
+
+.quotes h2 {
+    margin: 0 0 20px;
+    text-align: center;
+}
+
+.quotes .quote-list article {
+    box-sizing: border-box;
+    float: left;
+    padding: 30px 20px;
+    width: 50%;
+}
+
+.quote-list artile .quote {
+    color: #667;
+    font-style: 24px;
+    font-stretch: italic;
+}
+
+.quote-list article .author .image{
+ float: left;
+    
+    
+     
